@@ -1,0 +1,23 @@
+{
+  "name": "nodelearn",
+  "version": "1.0.0",
+  "description": "learn about node<br/>  \r  test & record<br/>  \r  **main** is all<br/>  \r  **dev** is project<br/>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lizhongyier/nodeLearn.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lizhongyier/nodeLearn/issues"
+  },
+  "homepage": "https://github.com/lizhongyier/nodeLearn#readme",
+  "dependencies": {
+    "moment": "^2.29.4"
+  }
+}
